@@ -1,6 +1,6 @@
 ### 👋 Olá! Eu sou o Josias Soares 
 
-- 🎓 4° Período de Ciência da Computação
+- 🎓 4° Período em Ciência da Computação
 - 🌱 Estudando Dart/Flutter
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
