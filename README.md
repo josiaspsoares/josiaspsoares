@@ -1,7 +1,7 @@
 ### 👋 Olá! Eu sou o Josias Soares 
 
-- 🎓 5° Período em Ciência da Computação
-- 🌱 Estudando Dart/Flutter
+- 🎓 6° Período em Ciência da Computação
+- 🌱 Estudando Desenvolvimento de Aplicativos com Dart e Flutter
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 
@@ -15,6 +15,7 @@
   <img align="center" alt="Josias-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
    <img align="center" alt="Josias-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
    <img align="center" alt="Josias-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+   <img align="center" alt="Josias-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
   
  ##
