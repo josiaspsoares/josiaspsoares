@@ -1,7 +1,7 @@
 ### 👋 Olá! Eu sou o Josias Soares 
 
-- 🎓 6° Período em Ciência da Computação
-- 🌱 Estudando Desenvolvimento de Aplicativos com Dart e Flutter
+- 🎓 7° Período em Ciência da Computação
+- 👨‍🏫 Projeto de TCC: A influência da disseminação dos valores do DevOps na Gestão de TI
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 
