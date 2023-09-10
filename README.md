@@ -1,6 +1,6 @@
 ### 👋 Olá! Eu sou o Josias Soares 
 
-- 🎓 7° Período em Ciência da Computação
+- 🎓 8° Período em Ciência da Computação
 - 👨‍🏫 Projeto de TCC: A influência da disseminação dos valores do DevOps na Gestão de TI
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
